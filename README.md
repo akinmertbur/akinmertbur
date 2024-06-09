@@ -21,6 +21,8 @@
 
 - 🌱 I’m deepening my knowledge in various **Backend Frameworks** and enhancing my skills in **.NET for creating robust static backends**
 
+- 🤖 I’m also enhancing my expertise in **Machine Learning** and **Data Science**, delving into advanced algorithms and data analysis techniques to build intelligent and data-driven applications.
+
 - 💬 Ask me about **React, Node.js, Express, Flask, .NET**
 
 - 📫 How to reach me **akinmertbur@gmail.com**
