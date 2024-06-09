@@ -23,7 +23,9 @@
 
 - 🤖 I’m also enhancing my expertise in **Machine Learning** and **Data Science**, delving into advanced algorithms and data analysis techniques to build intelligent and data-driven applications.
 
-- 💬 Ask me about **React, Node.js, Express, Flask, .NET**
+- ☁️ I have strong proficiency with **AWS**, particularly in managing **EC2 instances**, utilizing **S3 for scalable storage solutions**, and implementing **SNS for reliable and flexible messaging services**
+
+- 💬 Ask me about **React, Node.js, Express, Flask, .NET, AWS**
 
 - 📫 How to reach me **akinmertbur@gmail.com**
 
