@@ -19,13 +19,13 @@
 
 - 🔭 I’m currently developing **cutting-edge Full-Stack Web Applications**
 
-- 🌱 I’m deepening my knowledge in various **Backend Frameworks** and enhancing my skills in **.NET for creating robust static backends**
+- 💬 Ask me about **React, Node.js, Express, Flask, .NET, AWS**
 
-- 🤖 I’m also enhancing my expertise in **Machine Learning** and **Data Science**, delving into advanced algorithms and data analysis techniques to build intelligent and data-driven applications.
+- 🌱 I’m deepening my knowledge in various **Backend Frameworks** and enhancing my skills in **.NET for creating robust static backends**
 
 - ☁️ I have strong proficiency with **AWS**, particularly in managing **EC2 instances**, utilizing **S3 for scalable storage solutions**, and implementing **SNS for reliable and flexible messaging services**
 
-- 💬 Ask me about **React, Node.js, Express, Flask, .NET, AWS**
+- 🤖 I’m also enhancing my expertise in **Machine Learning** and **Data Science**, delving into advanced algorithms and data analysis techniques to build intelligent and data-driven applications
 
 - 📫 How to reach me **akinmertbur@gmail.com**
 
