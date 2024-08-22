@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently developing **cutting-edge Full-Stack Web Applications**
 
-- 💬 Ask me about **React, Node.js, Express, Flask, Java, AWS**
+- 💬 Ask me about **React.js, Node.js, Express, Flask, Java, AWS**
 
 - 🌱 I’m deepening my knowledge in various **Backend Frameworks**
 
