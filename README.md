@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akın Mert Bür</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akinmertbur&label=Profile%20views&color=0e75b6&style=flat" alt="akinmertbur" /> 
@@ -19,13 +19,11 @@
 
 - 🔭 I’m currently developing **cutting-edge Full-Stack Web Applications**
 
-- 💬 Ask me about **React, Node.js, Express, Flask, .NET, AWS**
+- 💬 Ask me about **React, Node.js, Express, Flask, Java, AWS**
 
-- 🌱 I’m deepening my knowledge in various **Backend Frameworks** and enhancing my skills in **.NET for creating robust static backends**
+- 🌱 I’m deepening my knowledge in various **Backend Frameworks**
 
 - ☁️ I have strong proficiency with **AWS**, particularly in managing **EC2 instances**, utilizing **S3 for scalable storage solutions**, and implementing **SNS for reliable and flexible messaging services**
-
-- 🤖 I’m also enhancing my expertise in **Machine Learning** and **Data Science**, delving into advanced algorithms and data analysis techniques to build intelligent and data-driven applications
 
 - 📫 How to reach me **akinmertbur@gmail.com**
 
